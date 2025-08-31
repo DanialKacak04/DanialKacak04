@@ -1,8 +1,7 @@
 Hi, I’m @DanialKacak04
 👀 I’m interested in Game Development 
 - 🌱 I’m currently learning C# and unity engine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +6011-14125330
+- 💞️ I’m looking to collaborate on some docker project
 - 😄 Pronouns: Danial/he/him/turtle
 - ⚡ Fun fact: i love Turtle 
 
