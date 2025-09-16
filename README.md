@@ -1,8 +1,8 @@
-Hi, I’m @DanialKacak04
+Hi, I’m Ahmad Danial
 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning C# and unity engine
+- 🌱 I’m currently learning torward devops path
 - 💞️ I’m looking to collaborate on some docker project
-- 😄 Pronouns: Danial/he/him/turtle
+- 😄 Pronouns: Danial/he/him
 - ⚡ Fun fact: i love Turtle 
 
 <!---
